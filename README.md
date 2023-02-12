@@ -1,5 +1,5 @@
 
-#Javascript projects
+
 <h1><strong>Javascript projects that I created while understanding the fundamentals of Javascript!!!</strong></h1>
 
 
