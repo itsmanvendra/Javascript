@@ -10,3 +10,5 @@ Click on the <button> fork </button> button
 <h3>👉 Clone this repository</h3>
 
 git clone https://github.com/itsmanvendra/javascript.git
+
+<h1><strong>!! HAPPY LEARNING !!</strong></h1>
